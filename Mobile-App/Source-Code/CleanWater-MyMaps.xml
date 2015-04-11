@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/widget47"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<MapView
+	android:id="@+id/widget43"
+	android:layout_width="fill_parent"
+	android:layout_height="576dp"
+	android:clickable="true"
+	android:apiKey="none"
+	android:layout_x="0px"
+	android:layout_y="0px" />
+<DatePicker
+	android:id="@+id/widget32"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:background="#ffc8dcf0"
+	android:layout_x="89px"
+	android:layout_y="590px" />
+<TimePicker
+	android:id="@+id/widget34"
+	android:layout_width="124px"
+	android:layout_height="49px"
+	android:background="#ffc8dcf0"
+	android:layout_x="264px"
+	android:layout_y="642px" />
+</AbsoluteLayout>
