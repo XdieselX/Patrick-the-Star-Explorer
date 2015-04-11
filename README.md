@@ -4,3 +4,5 @@ Clean Water Mapping Projects :
 - Mobile App
 - Database linked with MapProvider
 - Detection of Clean Water
+
+Might need https://github.com/pmarti/python-messaging since the prototype is running on Rasberry Pi.
